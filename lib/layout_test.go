@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/novuhq/go-novu/lib"
+	"github.com/our-toda/go-novu/lib"
 	"github.com/stretchr/testify/require"
 )
 
